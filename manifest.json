@@ -5,5 +5,7 @@
 	"minAppVersion": "1.4.0",
 	"description": "Type @ to open an autocomplete for wikilinks to notes, headings, and blocks.",
 	"author": "Stefan Imbesi",
+	"authorUrl": "https://github.com/stefan-imbesi",
+	"fundingUrl": "https://github.com/sponsors/stefan-imbesi",
 	"isDesktopOnly": false
 }
