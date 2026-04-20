@@ -1,0 +1,22 @@
+.at-link-suggest-item {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	padding: 4px 8px;
+}
+
+.at-link-suggest-primary {
+	font-size: var(--font-ui-medium);
+	color: var(--text-normal);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.at-link-suggest-secondary {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

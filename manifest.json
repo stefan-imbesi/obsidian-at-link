@@ -1,0 +1,9 @@
+{
+	"id": "at-link",
+	"name": "At Link",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Type @ to open an autocomplete for wikilinks to notes, headings, and blocks.",
+	"author": "Stefan Imbesi",
+	"isDesktopOnly": false
+}
