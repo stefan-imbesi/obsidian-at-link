@@ -15,7 +15,7 @@ interface WorkspaceWithSuggest {
 }
 
 export default class AtLinkPlugin extends Plugin {
-	async onload() {
+	onload() {
 		const suggest = new AtLinkSuggest(this.app);
 		this.registerEditorSuggest(suggest);
 
